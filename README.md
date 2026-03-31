@@ -22,7 +22,7 @@ I specialize in building modern web applications with a focus on **.NET & Angula
 - **AI R&D:** Exploring LLM integration for automated technical documentation and consulting workflows.
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/farah-weslati](www.linkedin.com/in/farah-weslati-504a48306)
+- **LinkedIn:** [www.linkedin.com/in/farah-weslati-504a48306]
 - **Email:** [fweslati04@gmail.com]
 
 ---
